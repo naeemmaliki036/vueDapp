@@ -31,6 +31,9 @@ const count = ref(0)
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
+  <p>
+    MNA struggles!!!
+  </p>
 </template>
 
 <style scoped>
